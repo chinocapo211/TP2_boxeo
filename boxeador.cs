@@ -5,6 +5,9 @@
     public int peso{get; set;}
     public int potenciaGolpes{get; set;}
     public int velocidadPiernas{get; set;}
+    public boxeador()
+    {
+    }
     public boxeador(string nom, string pa, int pe, int pg, int vp)
     {
         nombre = nom;

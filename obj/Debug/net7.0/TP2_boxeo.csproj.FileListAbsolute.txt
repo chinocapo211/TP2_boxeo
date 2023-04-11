@@ -1,0 +1,15 @@
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\bin\Debug\net7.0\TP2_boxeo.exe
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\bin\Debug\net7.0\TP2_boxeo.deps.json
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\bin\Debug\net7.0\TP2_boxeo.runtimeconfig.json
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\bin\Debug\net7.0\TP2_boxeo.dll
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\bin\Debug\net7.0\TP2_boxeo.pdb
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\obj\Debug\net7.0\TP2_boxeo.csproj.AssemblyReference.cache
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\obj\Debug\net7.0\TP2_boxeo.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\obj\Debug\net7.0\TP2_boxeo.AssemblyInfoInputs.cache
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\obj\Debug\net7.0\TP2_boxeo.AssemblyInfo.cs
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\obj\Debug\net7.0\TP2_boxeo.csproj.CoreCompileInputs.cache
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\obj\Debug\net7.0\TP2_boxeo.dll
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\obj\Debug\net7.0\refint\TP2_boxeo.dll
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\obj\Debug\net7.0\TP2_boxeo.pdb
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\obj\Debug\net7.0\TP2_boxeo.genruntimeconfig.cache
+Z:\Tecnologia\4to\programacion\tp2_boxeo\TP2_boxeo\obj\Debug\net7.0\ref\TP2_boxeo.dll
